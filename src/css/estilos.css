@@ -49,6 +49,12 @@ main:after {
 	border: 2px solid transparent;
 	cursor: pointer;
 	border-color: #ffffff;
+	transition: 0.3s ease-in-out;
+}
+
+.botoes-carrossel .botao:hover {
+	box-shadow:  0 0 1em #ffd700, 0 0 1em #ff0000;
+	transform: scale(1.2);
 }
 
 .botoes-carrossel .botao.selecionado {
