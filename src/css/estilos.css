@@ -53,7 +53,7 @@ main:after {
 }
 
 .botoes-carrossel .botao:hover {
-	box-shadow:  0 0 1em #ffd700, 0 0 1em #ff0000;
+	box-shadow:  0 0 1em #03df21, 0 0 1em #00ff2a;
 	transform: scale(1.2);
 }
 
